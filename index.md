@@ -10,3 +10,7 @@ There are two key points:
 - [Project, ___](project.md)
 - [Communication, Collaboration, ___](communication_collaboration.md)
 - [Communication, Documentation, ___](communication_documentation.md)
+- [Issue Driven, Gather Driven, ___](issuedriven_gatherdriven.md)
+- [Teamwork, ___](teamwork.md)
+- [Psychological Safety, ___](psychologicalsafety.md)
+- [VUCA, ___](vuca.md)

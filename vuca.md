@@ -1,0 +1,2 @@
+# VUCARD
+VUCA + Remote + Diversity
