@@ -14,3 +14,12 @@ There are two key points:
 - [Teamwork, ___](teamwork.md)
 - [Psychological Safety, ___](psychologicalsafety.md)
 - [VUCA, ___](vuca.md)
+- [Super Flex, ___](superflex.md) Japanese
+- [Business Chat, ___](businesschat.md)
+- [Work-Life Balance, ___](worklifebalance.md)
+- [Micro Management, ___](micromanagement.md)
+- [Task List, ___](tasklist.md)
+- [Moderate, Facilirate, ___](moderate_facilitate.md)
+- [Needs, Seeds, ___](needs_seeds.md)
+- [Minimalism, Simplism, ___](minimalism_simplism.md)
+- [KKD, QCDS, ___](kkd_qcds.md) Japanese
