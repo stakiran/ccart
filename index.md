@@ -1,10 +1,21 @@
-## What Is Conceptual Counter Art?
-It is an art practice that presents new concepts that counter existing ones.
+## What is Conceptual Counter Art?
+It is an art form that presents a new concept that serves as a counter to an existing concept.
 
 There are two key points:
 
-- **Connecting practicality and art:** dealing with practical, utilitarian concepts
-- **Expressing concepts:** expressing them only through simple, linguistic names
+- **Connecting utility and art:** dealing with practical concepts  
+- **Expressing the concept:** expressing it only through a linguistically simple name
+
+There are also several patterns of “counter”:
+
+- **Against A, ___:**
+  - Present a concept that directly opposes A
+  - Present a strengthened version of A
+  - Present a new paradigm that replaces A
+  - Treat A as an instance of class C, and present another instance B of C
+  - ...
+
+In any case, what they share is a stance of resistance against A. The essence of Conceptual Counter Art is to generate and present a new concept with the force to “kill” A.
 
 ## Works
 - [Project, ___](project.md)
