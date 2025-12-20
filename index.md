@@ -6,7 +6,7 @@ There are two key points:
 - **Connecting practicality and art:** dealing with practical, utilitarian concepts
 - **Expressing concepts:** expressing them only through simple, linguistic names
 
-## List of [My](https://github.com/stakiran) Works
+## Works
 - [Project, ___](project.md)
 - [Communication, Collaboration, ___](communication_collaboration.md)
 - [Communication, Documentation, ___](communication_documentation.md)
@@ -23,3 +23,6 @@ There are two key points:
 - [Needs, Seeds, ___](needs_seeds.md)
 - [Minimalism, Simplism, ___](minimalism_simplism.md)
 - [KKD, QCDS, ___](kkd_qcds.md) Japanese
+
+## Author
+[sta](https://github.com/stakiran)
