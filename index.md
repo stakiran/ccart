@@ -31,7 +31,6 @@ In any case, what they share is a stance of resistance against A. The essence of
 - [Micro Management, ___](micromanagement.md)
 - [Task List, ___](tasklist.md)
 - [Moderate, Facilirate, ___](moderate_facilitate.md)
-- [Needs, Seeds, ___](needs_seeds.md)
 - [Minimalism, Simplism, ___](minimalism_simplism.md)
 - [KKD, QCDS, ___](kkd_qcds.md) Japanese
 
