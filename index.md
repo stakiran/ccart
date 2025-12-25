@@ -18,7 +18,8 @@ There are also several patterns of “counter”:
 In any case, what they share is a stance of resistance against A. The essence of Conceptual Counter Art is to generate and present a new concept with the force to “kill” A.
 
 ## Works
-- [Project, ___](project.md)
+- [Project, ___](project1.md)
+- [Project, ___](project2.md)
 - [Communication, Collaboration, ___](communication_collaboration.md)
 - [Communication, Documentation, ___](communication_documentation.md)
 - [Issue Driven, Gather Driven, ___](issuedriven_gatherdriven.md)
